@@ -1,2 +1,2 @@
-# development_essentials
+# Development Essentials
 Development Essentials course
